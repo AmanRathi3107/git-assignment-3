@@ -17,10 +17,10 @@ function isPrime(num){
         }
     }
     if(flag==true){
-        console.log(num+" is not a prime Number");
+        console.log(num+" is a prime Number");
     }
     else{
-        console.log(num+" is a prime number");
+        console.log(num+" is a not prime number");
     }
 }
 
